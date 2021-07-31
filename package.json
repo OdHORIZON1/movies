@@ -1,5 +1,5 @@
 {
-  "homepage": "http://OdHorizon1.github.io/movies",
+  "homepage": "http://OdHORIZON1.github.io/movies",
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +41,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages" : "^3.2.3"
+  }
 }
